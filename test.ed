@@ -1,0 +1,15 @@
+# mermaid 簡介
+## mermaid 練習
+### 一般流程
+```mermaid
+graph TD
+A-->B
+```
+example
+```mermaid
+graph LA
+A-->B
+A-->C((註解))
+C((註解))-->D
+B-->D
+```
